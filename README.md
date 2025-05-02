@@ -24,4 +24,7 @@ spread of misinformation and protect the integrity of democratic processes.
 
 ## Dataset
 
-This paper is part of the Desinformacion project (https://desinformacion.cl). THe dataset is available at https://github.com/marcelomendoza/disinformation-data
+This paper is part of the project ***Estudio nacional sobre desinformación en
+redes sociales y su efecto en el pluralismo y la agenda de medios -
+PLU210012*** (https://desinformacion.cl). THe dataset is available at
+https://github.com/marcelomendoza/disinformation-data
